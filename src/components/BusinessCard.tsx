@@ -102,45 +102,12 @@ export const BusinessCard = () => {
                 </div>
               </div>
 
-              {/* Contact Information */}
-              <div className="space-y-2 flex-1">
-                <div className="flex items-center gap-3 text-sm group cursor-pointer">
-                  <Mail className="w-4 h-4 text-primary" />
-                  <span className="text-muted-foreground text-xs">sahibzadashayaan@gmail.com</span>
-                </div>
+            
                 
-                <div className="flex items-center gap-3 text-sm group cursor-pointer">
-                  <Phone className="w-4 h-4 text-primary" />
-                  <span className="text-muted-foreground text-xs">+92 333 8581887</span>
-                </div>
-                
-                <div className="flex items-center gap-3 text-sm group cursor-pointer">
-                  <Github className="w-4 h-4 text-primary" />
-                  <span className="text-muted-foreground text-xs">github.com/n0tShayan</span>
-                </div>
-                
-                <div className="flex items-center gap-3 text-sm group cursor-pointer">
-                  <Linkedin className="w-4 h-4 text-primary" />
-                  <span className="text-muted-foreground text-xs">linkedin.com/in/AsadShayan</span>
-                </div>
-              </div>
-
-              {/* Specializations */}
-              <div className="mt-4">
-                <div className="flex gap-2 flex-wrap justify-center">
-                  <div className="px-3 py-1 bg-primary/10 rounded-full text-xs text-primary font-medium">
-                    Data Science
-                  </div>
-                  <div className="px-3 py-1 bg-primary/10 rounded-full text-xs text-primary font-medium">
-                    Machine Learning
-                  </div>
-                  <div className="px-3 py-1 bg-primary/10 rounded-full text-xs text-primary font-medium">
-                    Full Stack
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          
+</div>
+</div>
+          
 
           {/* Back of Card */}
           <div 
